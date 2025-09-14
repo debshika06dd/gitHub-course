@@ -1,1 +1,1 @@
-# gitHib-course
+# gitHub-course
